@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "bro im home",
-      "body": "lorem ipsum welcome im here, hello lorem ipsum welcome im here, hello lorem ipsum welcome im here, hello",
-      "author": "kyle",
-      "id": 5
-    },
-    {
       "title": "i like fries",
       "body": "lorem ipsum lorem ipsum welcome im here, hello lorem ipsum welcome im here, hello lorem ipsum welcome im here, hello",
       "author": "eddie",
@@ -19,16 +13,10 @@
       "id": 7
     },
     {
-      "title": "yooooooo",
-      "body": "lorem ipsum lorem ipsum welcome im here, hello lorem ipsum welcome im here, hello lorem ipsum welcome im here, hello",
-      "author": "dan",
-      "id": 8
-    },
-    {
-      "title": "example",
-      "body": "hey",
+      "title": "weather",
+      "body": "I like the weather in Seattle, WA",
       "author": "david",
-      "id": 13
+      "id": 8
     }
   ]
 }
